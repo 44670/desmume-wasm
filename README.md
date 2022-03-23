@@ -50,4 +50,4 @@ space: Select
 
 # Microphone
 
-Press 'R' will send a waveform to microphone. It *may* be useful for playing some games.
+Press 'R' will send a waveform to microphone. It *may* be useful for playing some games. Additionally, you can press 'E' to use your microphone, but this is an early access feature, which is experimental, and you will have to enable it manually.
