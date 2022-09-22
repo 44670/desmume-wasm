@@ -43,11 +43,11 @@ Please read this guide before creating a new issue, thanks!
 
 Most 2D games could be run at 60fps on A14-based devices. 
 
-However, the performance of 3D games varies for each game, an A15-based device could run most 3D games at nearly full speed.
+However, the performance of 3D games varies for each game, an A15- and A16-based device could run most 3D games at nearly full speed.
 
 By default, 30FPS limit mode is enabled. It is strongly recommended to enable this mode on A14-based devices (or earlier) to protect battery life and keep the temperature comfortable for playing. 
 
-On A15-based devices, this mode could be disabled if you want to have a smoother experience.
+On A15- and A16-based devices, this mode could be disabled if you want to have a smoother experience.
 
 # Control
 
